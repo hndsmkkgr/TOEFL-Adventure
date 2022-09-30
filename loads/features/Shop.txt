@@ -1,0 +1,8 @@
+Ninja Avatar,1000,An avatar of a lone wolf ninja from a faraway hidden village. You can customize your profile with this stealthy avatar!
+Knight Avatar,1000,An avatar of a brave knight serving justice for his kingdom. You can customize your profile with this brave avatar!
+Wizzard Avatar,1000,An avatar of a witty wizzard ready to cause mischief with their hexes and jinxes. You can customize your profile with this cunning avatar!
+Holy Mage Avatar,1000,An avatar of a pure-hearted holy mage who blesses the people in need. You can customize your profile with this blessed avatar!
+Pirate Avatar,1000,An avatar of a pirate sailing the seven seas in search of a legendary treasure. You can customize your profile with this greedy avatar!
+Fairy Avatar,1000,An avatar of a beautiful yet mystical fairy roaming the enchanted forrest. You can customize your profile with this magical avatar!
+Coin Booster,30,You can double the number of coins received from 1 battle with this item!
+EXP Booster,100,You can double the number EXP received from 1 battle with this item!

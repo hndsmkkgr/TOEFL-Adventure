@@ -1,0 +1,12 @@
+Faster Than Lightning,Win a TOEFL Battle with a minimum score of 70% within 10 minutes.
+Perfectionist,Get a score of 100% in a Battle.
+Crazy Rich Scholar,Spend a total of 10000 Coins at the shop.
+Gotta Collect 'em All,Collect all avatars.
+Testing the Waters,Use an item for the first time.
+Warrior in Training,Finish 5 TOEFL battles.
+Pop Idol,Answer 10 Pop Quizes Correctly.
+Shopaholic,Own 99 copies of all consumable items (used item not included).
+Straight-A Student,Get a score of at least 80% in a Battle 10 times
+Perseverance is Key,Level up to Lv.25
+Half Way There,Level up to Lv.50
+Platinum,Level up to Lv.100
